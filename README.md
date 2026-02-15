@@ -4,6 +4,10 @@
 
 ![Feed Output Preview](screenshots/oc4.jpg)
 
+![OpenCart](https://img.shields.io/badge/OpenCart-3.x%20%7C%204.x-blue)
+![Version](https://img.shields.io/badge/Version-1.0.0-green)
+![License](https://img.shields.io/badge/License-Commercial-orange)
+
 ## Description
 
 Generate a product feed for Facebook Shop and Instagram Shopping
